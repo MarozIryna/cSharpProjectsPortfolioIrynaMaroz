@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace peoject02
+namespace project02
 {
     internal class Program
     {
